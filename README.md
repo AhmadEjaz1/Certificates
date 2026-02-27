@@ -15,6 +15,8 @@
 ![AhmadEjaz-1 - Intro to Machine Learning](https://github.com/user-attachments/assets/ea4e3167-fe1f-4f26-a457-d7a8d8a6d118)
 ![AhmadEjaz-1 - Intermediate Machine Learning](https://github.com/user-attachments/assets/f81aaf19-9f04-4fa2-87ec-20ff8f617046)
 ![AhmadEjaz-1 - Feature Engineering](https://github.com/user-attachments/assets/8de82632-3048-4dc8-a808-9e75c3bece4d)
+<img width="4800" height="2960" alt="image" src="https://github.com/user-attachments/assets/fc6bb2c4-3c8c-4911-ba89-6577a4c815dd" />
+
 
 # Computer Vision
 
